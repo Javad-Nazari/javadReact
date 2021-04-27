@@ -2,7 +2,8 @@ import React, { Component } from 'react'
 import Contact from './Contact.js'
 class Contacts extends Component {
     state = {
-            contacts: [
+        contacts:
+            [
                 {
                     id: 1,
                     name : 'Javad Nazari',
